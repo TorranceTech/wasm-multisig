@@ -19,7 +19,7 @@ wasm-bindgen = "0.2"
 secp256k1 = "0.21"
 web3 = "0.14"
 rand = "0.8"
-sha2 = "0.9"
+sha2 = "0.11"
 
 [lib]
 crate-type = ["cdylib", "rlib"]
